@@ -1,2 +1,3 @@
-# Validador-Gerador-de-CPF
-Script que valida e que pode gerar um CPF aleatório
+<h1 align="center">Validador/Gerador de CPF</h1>
+<p align="center">Script que valida e que pode gerar um CPF aleatório</p>
+<p align="center">Desenvolvido em python</p>
